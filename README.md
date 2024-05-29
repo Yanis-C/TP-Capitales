@@ -19,10 +19,10 @@ ex params:
 }
 
 GET /games:
-On obtientaléatoirement l’id et le nom d’un pays
+On obtient aléatoirement l’id et le nom d’un pays
 
 GET /games/{id_player}:
-On obtientaléatoirement l’id et le nom d’un pays, en excluant le dernier pays deviné par l'utilisateur
+On obtient aléatoirement l’id et le nom d’un pays, en excluant le dernier pays deviné par l'utilisateur
 
 POST /games/{id_country}/{id_player}:
 Pour l'id du pays et le joueur spécifiés dans l'url, on propose une capitale
