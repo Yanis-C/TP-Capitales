@@ -1,4 +1,3 @@
-"# TP-Capitales" 
 
 Énoncé :
 TP : Devine la Capitale (API web)
